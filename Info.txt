@@ -1,0 +1,3 @@
+To use the Stealer build a Stub than assign a .ico for the icon https://cloudconvert.com/ico-to-png
+Make sure to have Windows Defender exempting the stealer or the Anti Virus completely off or It will not open.}
+Get a Webhook for Discord.
